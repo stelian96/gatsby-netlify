@@ -1,7 +1,7 @@
 backend:
   name: github
+  branch: main
   repo: stelian96/gatsby-netlify
-  branch: master
 media_folder: static/assets
 public_folder: assets
 collections:
